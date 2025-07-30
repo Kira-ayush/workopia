@@ -1,0 +1,16 @@
+{
+    "name": "ayush/workopia",
+    "description": "Job Listing application",
+    "authors": [
+       {
+        "name":"Ayush Kumar",
+        "email": "aayush.kr.gope@gmail.com"
+       }   
+    ],
+    "autoload":{
+        "psr-4":{
+            "Framework\\": "Framework/",
+            "App\\": "App/"
+        }
+    }
+}
